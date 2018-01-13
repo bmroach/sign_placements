@@ -68,7 +68,7 @@ $$ - denotes a script with variable parameters for experimental outputs
 * sklearn 
 <br>
 
-### Original source
+## Original source
 This project was originally a group project at Boston University (see team members below) as part of a grad-level course [Data Mechanics for Pervasive Systems & Urban Applications](http://datamechanics.org). Currently, the repo is under expansion by [Brian Roach](https://github.com/bmroach).<br/>
 Additional information regarding the statistical findings of our experiment can be found in the [original repository](https://github.com/Data-Mechanics/course-2017-fal-proj/tree/master/adsouza_bmroach_mcaloonj_mcsmocha).
 
